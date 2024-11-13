@@ -1,0 +1,1 @@
+Identify the factors impacting total taxi fare  including pickup/dropoff locations, trip distance, passenger count, and time of day and charges. . Correlation analysis is a test to determinr the linear relationship between the each features with each other. Correlation coefficients are used to examine the features which are correlated either in positive way or negative way. 
